@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+	<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>TYPES of PENCILS</title>
+	
+	<style type="text/css">
+		td {border:ridge 3px #3E4958; padding: 5px;}
+		th {border:ridge 3px #CAAA72; padding: 5px;}
+		table {border:ridge 10px #CAAA72; background-color:#0A1F35;}
+	</style>
+	
+	</head>
+		<body>
+		<font size="2" face="Arial" color="#EBF2E6">
+			
+			<table>
+			<tbody><tr>
+				<th><h3>Pencil Name</h3></th>
+				<th><h3>Role</h3></th>
+				<th><h3>Origin</h3></th>
+				<th><h3>Edge</h3></th>
+				<th><h3>Color</h3></th>
+				<th><h3>Eraser Build</h3></th>
+			</tr>
+			
+			<tr>
+					<td align="center"><h4>#2 Pencil</h4><p><img src="#2 Pencil.jpg" alt="#2 Pencil" height="100" width="100"></p></td>
+					<td align="center">Used often in Academia</td>
+					<td align="center">Forged in the Heart of an Indian Burial Ground</td>	
+					<td align="center">Often Dull</td>
+					<td align="center">Tangerine Yellow</td>
+					<td align="center">Rubbery</td>
+			</tr>
+
+			<tr>
+					<td align="center"><h4>Carpenters Pencil</h4><p><img src="Carpenters Pencil.jpg" alt="Carpenters Pencil" height="100" width="100"></p></td>
+					<td align="center">Popular in Underwater Woodworking</td>
+					<td align="center">Found in the Coconuts of the Carribean</td>	
+					<td align="center">Flat-Edged</td>
+					<td align="center">Grassy Green</td>
+					<td align="center">None</td>
+			</tr>
+
+			<tr>
+					<td align="center"><h4>Jumbo Pencil</h4><p><img src="Jumbo Pencil.jpg" alt="Jumbo Pencil" height="100" width="100"></p></td>
+					<td align="center">Commonly used by Ferocious Vikings</td>
+					<td align="center">Located inside the Brains of 999 year old whales</td>	
+					<td align="center">Rounded Tip</td>
+					<td align="center">Bubblegum Pink</td>
+					<td align="center">JUMBO</td>
+			</tr>
+			
+			<tr>
+					<td align="center"><h4>Bendy Pencil</h4><p><img src="Bendy Pencil.jpg" alt="Bendy Pencil" height="100" width="100"></p></td>
+					<td align="center">Bought in Bulk from most Octopus Universities</td>
+					<td align="center">Forged and found in the depths of the Mariana Trench</td>	
+					<td align="center">Duller than Dull</td>
+					<td align="center">Vampire Blood Red</td>
+					<td align="center">Smudgy and Useless</td>
+			</tr>
+			
+			<tr>
+					<td align="center"><h4>Raw Wood Pencil</h4><p><img src="Raw Wood Pencils.jpg" alt="Raw Wood Pencil" height="100" width="100"></p></td>
+					<td align="center">Favored highly by the local Beaver Communities for Dams</td>
+					<td align="center">Made from the scraps of older Beaver Dams</td>	
+					<td align="center">Jagged Edge</td>
+					<td align="center">Bark</td>
+					<td align="center">None</td>
+			</tr>
+			
+			<tr>
+					<td align="center"><h4>Plastic Mechanical Pencil</h4><p><img src="Plastic Mechanical Pencil.jpg" alt="Plastic Mechanical Pencil" height="100" width="100"></p></td>
+					<td align="center">Used for Spacecraft Mechanics and Rockets</td>
+					<td align="center">Melted down from the soul every dying star in the Galaxy</td>	
+					<td align="center">Pointed tip</td>
+					<td align="center">Black as Night</td>
+					<td align="center">Reliable</td>
+			</tr>
+			
+			<tr>
+					<td align="center"><h4>Gel Mechanical Pencil</h4><p><img src="Gel Mechanical pencil.jpg" alt="Gel Mechanical pencil" height="100" width="100"></p></td>
+					<td align="center">Intended for Smashing into one's left eye, then right</td>
+					<td align="center">Fallen down from the clouds in the sky</td>	
+					<td align="center">Extra Pointy tip</td>
+					<td align="center">Bullet Silver</td>
+					<td align="center">Extra Reliable</td>
+			</tr>
+
+			<tr>
+					<td align="center"><h4>Steel Mechanical Pencil</h4><p><img src="Steel Mechanical Pencil.jpg" alt="Steel Mechanical Pencil" height="100" width="100"></p></td>
+					<td align="center">Used in Vicious Swordfighting Combat</td>
+					<td align="center">Found embedded in stone waiting for it's Champion</td>	
+					<td align="center">Extra Extra Pointy tip</td>
+					<td align="center">Crazy Chrome</td>
+					<td align="center">Extra Extra Reliable</td>
+			</tr>
+			
+		</tbody></table>
+
+		</font></body>
+
+
+</html>
